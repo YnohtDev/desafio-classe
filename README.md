@@ -17,7 +17,7 @@ Implementar uma classe chamada `Heroi` com atributos básicos e um método que s
 ## 🚀 Como usar
 
 1. Clone o repositório:
-git clone https://github.com/YnohtDev/desafio-classe/blob/main/desafio-classe.js
+git clone https://github.com/codebythony/desafio-classe/blob/main/desafio-classe.js
 
 
 2. Execute o arquivo `desafio-classe.js` em um ambiente que suporte JavaScript, como o [Node.js](https://nodejs.org/) ou o console do navegador.
@@ -32,5 +32,5 @@ git clone https://github.com/YnohtDev/desafio-classe/blob/main/desafio-classe.js
 
 ## ✍️ Autor
 
-Feito com dedicação por **YnohtDev** 🚀  
+Feito com dedicação por **codebythony** 🚀  
 📌 Desafio do curso da **DIO.me**
